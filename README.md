@@ -14,14 +14,14 @@ This repository is for recording my learning progress of Java! The tutorial is o
 - [x] 08 - Function Overriding, Static Function, Variable Scope, Event Handling by Interface or Class and Swing Component
 - [x] 09 - OOP (Constructor), JDialog, Multithread
 - [x] 10 - Enum and Reference
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16
-- [ ] 17
-- [ ] 18
+- [x] 11 - Generics & Netbeans
+- [x] 12 - Read Write XML
+- [x] 13 - XPath & XStream
+- [x] 14 - Jar & Mavern
+- [x] 15 - Singleton
+- [x] 16 - Abstract Factory Pattern & ExecutorService
+- [ ] 17 - JTable
+- [ ] 18 - TableCellRenderer & Resources folder
 - [ ] 19
 - [ ] 20
 - [ ] 21
